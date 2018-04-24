@@ -48,5 +48,5 @@ html {
     font-size: 13px;
 }
 .section-expenses li:nth-child(even) .expense {
-    background-color: green;
+    background-color: darkgray;
 }
