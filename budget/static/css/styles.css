@@ -57,3 +57,6 @@ form ul li.category {
 .section-expenses li:nth-child(even) .expense {
     background-color: darkgray;
 }
+.section-expenses .close-icon:hover {
+    cursor: pointer;
+}
